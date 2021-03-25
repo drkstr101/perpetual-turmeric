@@ -70,5 +70,6 @@
                 "new_window": true
             }
         ]
-    }
+    },
+    "domain": "https://perpetual-turmeric-cf5ba.netlify.app"
 }
