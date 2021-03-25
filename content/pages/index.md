@@ -87,7 +87,7 @@ sections:
     bg_color: light
 layout: advanced
 seo:
-  title: ''
+  title: 'Watheia Labs, LLC'
   description: ''
   robots: []
   extra: []
