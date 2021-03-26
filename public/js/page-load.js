@@ -1,4 +1,4 @@
-window.onNextjsRouteChangeComplete = function() {
-window.addMainNavigationHandlers();
-window.addVideoEmbedsHandlers();
-};
+window.onNextjsRouteChangeComplete = function () {
+  window.addMainNavigationHandlers()
+  window.addVideoEmbedsHandlers()
+}

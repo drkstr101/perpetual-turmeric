@@ -1,0 +1,9 @@
+.cache/
+node_modules/
+coverage/
+storybook-static/
+.next/
+out/
+.sourcebit-nextjs-cache.json
+yarn.lock
+*.min.*
