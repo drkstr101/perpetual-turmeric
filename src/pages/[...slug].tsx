@@ -3,7 +3,7 @@ import _ from "lodash"
 import { sourcebitDataClient } from "sourcebit-target-next"
 import { withRemoteDataUpdates } from "sourcebit-target-next/with-remote-data-updates"
 
-import pageLayouts from "../layouts"
+import pageLayouts from "layouts"
 
 class Page extends React.Component {
   render() {

@@ -1,4 +1,4 @@
-export default function attribute(name, value, condition) {
+export default function attribute(name: string, value: unknown, condition: boolean) {
   if (typeof condition === "undefined") {
     condition = true
   }
