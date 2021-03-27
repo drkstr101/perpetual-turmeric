@@ -1,4 +1,4 @@
-window.onNextjsRouteChangeStart = function() {
-window.removeMainNavigationHandlers();
-window.removeVideoEmbedsHandlers();
-};
+window.onNextjsRouteChangeStart = function () {
+  window.removeMainNavigationHandlers()
+  window.removeVideoEmbedsHandlers()
+}

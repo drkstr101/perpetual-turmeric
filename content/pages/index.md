@@ -87,7 +87,7 @@ sections:
     bg_color: light
 layout: advanced
 seo:
-  title: 'Watheia Labs, LLC'
+  title: "Watheia Labs, LLC"
   description: >-
     Watheia Labs is an Engineering and Design agency located in South-East
     Washington state.
